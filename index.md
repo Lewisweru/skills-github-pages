@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+The life of Vivian: Welcome to the blog
 ---
 
